@@ -11,7 +11,7 @@ import MainTabBar from "components/content/tabbar/MainTabBar";
 export default {
   name: "App",
   components: {
-    // HelloWorld
+    // HelloWorld Test git
     MainTabBar,
   },
 };
